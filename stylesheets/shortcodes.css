@@ -586,13 +586,14 @@
 	font-size: 15px;
 	font-weight: 500;
 	background-color: #fff;
+	opacity: 1;
 }
 
 .themesflat-button.width-150 {
 	width: 150px;
 }
 
-.themesflat-button.has-padding-36 {
+.temesflat-button.has-padding-36 {
 	padding: 0px 36px;
 }
 
